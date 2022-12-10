@@ -1,0 +1,28 @@
+.quick-add__submit {
+  margin-bottom: 56px;
+  min-width: 285px !important;
+  height: 62px;
+  background-color: #464B90;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Montserrat';
+  border: 1px solid #464B90;
+  border-radius: 40px;
+  letter-spacing: initial;
+
+  transition: all 0.3s;
+}
+
+.quick-add__submit:hover {
+  background-color: #464B61;
+}
+
+.button--full-width {
+  display: inline-flex !important;
+  width: 285px;
+}
+
+.button::after {
+  content: none;
+  --border-offset: none;
+}
