@@ -1,0 +1,15 @@
+.product-discount {
+  align-self: center;
+  display: inline-block;
+  width: 65px;
+  height: 40px;
+
+  line-height: 40px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  color: #EB5757;
+  
+  background-color: rgba(235, 87, 87, 0.1);
+  border-radius: 30px;
+}
